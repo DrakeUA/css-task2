@@ -1,0 +1,155 @@
+body {
+    background-color: #b8b8b8;
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+}
+
+#content {
+    width: 800px;
+    padding: 20px 30px;
+    background-color: #fff;
+    margin: auto;
+}
+
+h1 {
+    font-size: 26px;
+    line-height: 30px;
+    color: #333;
+    font-weight: normal;
+    margin: 20px 0 10px 0;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 46px;
+    color: #333;
+    font-weight: normal;
+    font-style: italic;
+    margin: 40px 0 20px 0;
+}
+
+.fixed {
+    position: fixed;
+    top: 20px;
+    right: 0;
+    width: 200px;
+    padding: 20px;
+    font-style: italic;
+    background-color: #666;
+    color: #fff;
+}
+
+#puzzle {
+    width: 620px;
+    height: 465px;
+    background-image: url(puzzle/v7-watermark.jpg) no-repeat 0 0;
+    background-size: cover;
+    position: relative;
+    border: 5px solid #333;
+    margin: auto;
+}
+
+#puzzle img {
+    position: absolute;
+}
+
+#puzzle #img1 {
+    top: 0;
+    left: 0;
+}
+
+#puzzle #img2 {
+    top: 0;
+    left: 121px;
+}
+
+#puzzle #img3 {
+    top: 0;
+    left: 207px;
+}
+
+#puzzle #img4 {
+    top: 0;
+    left: 379px;
+}
+
+#puzzle #img5 {
+    top: 0;
+    left: 458px;
+}
+
+#puzzle #img6 {
+    top: 76px;
+    left: 0;
+}
+
+#puzzle #img7 {
+    top: 110px;
+    left: 88px;
+}
+
+#puzzle #img8 {
+    top: 82px;
+    left: 240px;
+}
+
+#puzzle #img9 {
+    top: 122px;
+    left: 338px;
+}
+
+#puzzle #img10 {
+    top: 83px;
+    left: 492px;
+}
+
+#puzzle #img11 {
+    top: 234px;
+    left: 0;
+}
+
+#puzzle #img12 {
+    top: 195px;
+    left: 122px;
+}
+
+#puzzle #img13 {
+    top: 229px;
+    left: 207px;
+}
+
+#puzzle #img14 {
+    top: 193px;
+    left: 370px;
+}
+
+#puzzle #img15 {
+    top: 233px;
+    left: 457px;
+}
+
+#puzzle #img16 {
+    top: 308px;
+    left: 0;
+}
+
+#puzzle #img17 {
+    top: 343px;
+    left: 88px;
+}
+
+#puzzle #img18 {
+    top: 318px;
+    left: 245px;
+}
+
+#puzzle #img19 {
+    top: 352px;
+    left: 331px;
+}
+
+#puzzle #img20 {
+    top: 311px;
+    left: 498px;
+}
